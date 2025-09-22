@@ -42,7 +42,7 @@
 
 ## Installation  
 
-1. Download the latest APK from **[Releases](#)**.  
+1. Download the latest APK from **[Releases](https://github.com/MSI-Sirajul/App-Manager/releases)**.  
 2. Install and grant necessary permissions.  
 3. Start managing your apps with ease.  
 
