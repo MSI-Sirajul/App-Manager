@@ -1,4 +1,4 @@
-# App Manager – Manage Your Android Apps Easily  
+# App Manager – v8.7
 
 ![App Manager Logo](assets/logo.png)  
 *A lightweight and powerful Android app to manage both system and user-installed apps.*  
@@ -28,7 +28,7 @@
 
 ## Ui Preview - v8.7
 
-![App Manager Screenshot](assets/Ui.png)  
+![App Manager Screenshot](assets/ui.jpg)  
 
 ---
 
